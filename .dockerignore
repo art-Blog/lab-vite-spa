@@ -1,0 +1,7 @@
+﻿     node_modules
+     dist
+     .vscode
+     .run
+     .idea
+     .git
+     README.md
